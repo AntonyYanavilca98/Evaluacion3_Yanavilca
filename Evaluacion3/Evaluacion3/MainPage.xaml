@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Evaluacion3"
+             x:Class="Evaluacion3.MainPage">
+
+    <StackLayout>
+        <Button x:Name="Item1" Text="StackLayoutDemo"/>
+        <Button x:Name="Item2" Text="Grid"/>
+        <Button x:Name="Item3" Text="HierchicalDemo"/>
+        <Button x:Name="Item4" Text="TabbedPage1"/>
+        <Button x:Name="Item5" Text="TabbedPage1"/>
+        <Button x:Name="Item6" Text="DatePickerExample"/>
+    </StackLayout>
+
+</ContentPage>
